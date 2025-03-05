@@ -27,7 +27,7 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>SEARCH CINEMA</h1>
+      <h1>SEARCH FILM</h1>
       <hr />
       <input
         type="text"
